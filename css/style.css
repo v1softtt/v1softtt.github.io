@@ -212,6 +212,11 @@ body {
   color: #fff;
   font-size: 20px;
 }
+.footer__p{
+  color: #fff;
+  text-decoration: none;
+}
+  
 
 /******************* Адаптив ********************/
 
