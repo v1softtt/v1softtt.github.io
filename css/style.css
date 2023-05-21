@@ -212,7 +212,7 @@ body {
   color: #fff;
   font-size: 20px;
 }
-.footer__p{
+.footer__p a{
   color: #fff;
   text-decoration: none;
 }
